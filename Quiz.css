@@ -1,0 +1,50 @@
+.main-div{
+    background-image: url(200w.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border:4px double plum;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom:4px dotted purple;
+}
+
+.text-box p{
+    color:white;
+    font-size: 25px;
+    
+
+}
+
+#p-1{
+    border: 4px double purple;
+    background-color:gray;
+    color: black;
+
+}
+
+#btn-1{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    float: left;
+}
+
+.ans-box{
+    height: 40px;
+    width: 250px;
+    border:2px solid purple;
+    float: left;
+}
+
+
+
+ 
